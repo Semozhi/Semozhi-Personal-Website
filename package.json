@@ -1,0 +1,25 @@
+{
+  "name": "Semozhi-Personal-Website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "normalize.css": "^8.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Semozhi/Semozhi-Personal-Website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Semozhi/Semozhi-Personal-Website/issues"
+  },
+  "homepage": "https://github.com/Semozhi/Semozhi-Personal-Website#readme"
+}
